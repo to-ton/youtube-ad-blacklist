@@ -1,2 +1,2 @@
 # youtube-ad-blacklist
-youtube *.googlevideo.com blacklist
+youtube *.googlevideo.com blacklist. fetched timely.
