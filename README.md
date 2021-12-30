@@ -1,2 +1,2 @@
-# youtube-ad-blocklist
-youtube *.googlevideo.com black list
+# youtube-ad-blacklist
+youtube *.googlevideo.com blacklist
