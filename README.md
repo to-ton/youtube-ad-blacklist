@@ -2,7 +2,7 @@
 # youtube-ad-blacklist
 youtube *.googlevideo.com blacklist. fetched timely.
 
-+The list above combined by the following regex below filter out most youtube ads to date.
+- The list above combined by the following regex below filter out most youtube ads to date.
 ```
 /^https?:\/\/r[12]?\d---sn-\w{8}(?:\w{3}-\w{4})?\.googlevideo\.com(?:\/|:|$)/
 
